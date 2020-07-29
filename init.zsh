@@ -7,6 +7,10 @@
 ######################################################################
 p6df::modules::openssl::version() { echo "0.0.1" }
 
+p6df::modules::openssl::deps() {
+	ModuleDeps=(p6m7g8/p6openssl)
+}
+
 ######################################################################
 #<
 #
@@ -38,4 +42,5 @@ p6df::modules::openssl::home::symlink() {
 ######################################################################
 p6df::modules::openssl::init() {
 
+	export SSLKEYLOGFILE=/tmp/ssl-key-log-file.log
 }
