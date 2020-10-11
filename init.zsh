@@ -16,8 +16,8 @@ p6df::modules::openssl::version() { echo "0.0.1" }
 ######################################################################
 p6df::modules::openssl::deps() {
 	ModuleDeps=(
-		Matty9191/ssl-cert-check
 		p6m7g8/p6openssl
+		Matty9191/ssl-cert-check
 	)
 }
 
@@ -30,17 +30,7 @@ p6df::modules::openssl::deps() {
 ######################################################################
 p6df::modules::openssl::external::brew() {
 
-}
-
-######################################################################
-#<
-#
-# Function: p6df::modules::openssl::home::symlink()
-#
-#>
-######################################################################
-p6df::modules::openssl::home::symlink() {
-
+	brew install openssl
 }
 
 ######################################################################
