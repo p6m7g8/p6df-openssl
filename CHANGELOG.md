@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/p6m7g8/p6df-openssl/compare/v1.0.1...v2.0.0) (2020-10-11)
+
+
+### Bug Fixes
+
+* **deps:** fix depends ([#5](https://github.com/p6m7g8/p6df-openssl/issues/5)) ([0117a14](https://github.com/p6m7g8/p6df-openssl/commit/0117a147cf5584dd74138c5b6bfcfc8f05ccf3e0))
+
 ### 1.0.1 (2020-09-20)
 
 
