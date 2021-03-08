@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-openssl:
+
+#### p6df-openssl/init.zsh:
 
 - p6df::modules::openssl::deps()
 - p6df::modules::openssl::external::brew()
