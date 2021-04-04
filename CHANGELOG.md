@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/p6m7g8/p6df-openssl/compare/v2.1.0...v2.1.1) (2021-04-04)
+
+
+* **README:** updates generator ([#14](https://github.com/p6m7g8/p6df-openssl/issues/14)) ([66c8b23](https://github.com/p6m7g8/p6df-openssl/commit/66c8b2346eff46039c72cbe3e6573fc60be763ad))
+* Coc -> .github ([05dc0a1](https://github.com/p6m7g8/p6df-openssl/commit/05dc0a1de59ef392c04e5e7ab6236c8efbe31ca1))
+
 ## [2.1.0](https://github.com/p6m7g8/p6df-openssl/compare/v2.0.0...v2.1.0) (2020-12-06)
 
 
