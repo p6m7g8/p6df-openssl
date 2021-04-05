@@ -46,7 +46,9 @@
 
 - p6df::modules::openssl::deps()
 - p6df::modules::openssl::external::brew()
+- p6df::modules::openssl::external::yum()
 - p6df::modules::openssl::init()
+
 
 
 ## Author
